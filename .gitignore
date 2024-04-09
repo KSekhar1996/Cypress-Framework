@@ -1,0 +1,15 @@
+# Cypress generated files #
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/
+/cypress/results/
+/cypress/exports/
+
+# Node.js related files #
+/node_modules/
+
+# Environment variables #
+.env
+
+# Ignore package-lock.json file
+package-lock.json
